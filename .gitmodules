@@ -1,0 +1,6 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "content/posts/cn2jp"]
+	path = content/posts/cn2jp
+	url = https://github.com/aibazhang/cn2jp
