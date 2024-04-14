@@ -1,0 +1,110 @@
+baseURL: "https://kinjo.tech/"
+title: J.C.
+copyright: "© 2024 Keisei Kinjo"
+paginate: 5
+theme: PaperMod
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+params:
+  env: production
+  title: J.C.
+  description: "J.C.'s Blog"
+  keywords: [Blog, Tech, 博客, 部落格, ブログ]
+  author: J.C.
+  # images: [""]
+  # DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "facebook", "reddit", "telegram"]
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  # comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+
+  # home-info mode
+  homeInfoParams:
+    Title: "J.C.'s Blog"
+    Content: >
+      👋 I'm Keisei Kinjo (J.C.), a zh-ja-en trilingual DevOps Engineer base in Tokyo. 🏀👨‍💻🎸
+
+      - I hope you find something useful here. If you have any questions or comments, feel free to reach out to me via email.
+
+  socialIcons:
+    - name: email
+      url: "mailto:dtjp@tutanota.com"
+    - name: github
+      url: "https://github.com/aibazhang"
+    - name: rss
+      url: "/index.xml"
+    - name: KoFi
+      title: Buy me a Ko-Fi :)
+      url: "https://www.buymeacoffee.com/kinjo"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: archives/
+      weight: 5
+    - identifier: tags
+      name: Tags
+      url: tags/
+      weight: 10
+    - identifier: books
+      name: Reading Notes
+      url: https://aibazhang.github.io/
+      weight: 15
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
