@@ -71,9 +71,9 @@ params:
       title: Buy me a Ko-Fi :)
       url: "https://www.buymeacoffee.com/kinjo"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-FRYQ5R2WW9"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   cover:
