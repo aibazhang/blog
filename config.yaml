@@ -52,7 +52,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -69,7 +69,23 @@ params:
     text: "J.C."
     icon: /favicon.png
     iconHeight: 35
+  
+  # profile-mode
+  profileMode:
+    enabled: false
+    title: Keisei Kinjo (J.C.)
+    subtitle: "DevOps Engineer | Mandarin-Japanese-English trilingual speaker | Tokyo🗼"
+    imageUrl: "/favicon.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Kurimmy
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
+  # home-info mode
   homeInfoParams:
     Title: "👋 Hi there! I'm Keisei Kinjo (J.C.)"
     Content: >
