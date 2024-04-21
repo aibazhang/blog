@@ -1,30 +1,35 @@
 baseURL: "https://kinjo.tech/"
 title: J.C.
-copyright: "© 2024 Keisei Kinjo"
+copyright: "© 2024 kinjo.tech"
 paginate: 8
 theme: PaperMod
-
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts"]
+mainsections: 
+  - posts
 
 googleAnalytics: G-FRYQ5R2WW9
-
-minify:
-  disableXML: true
-  # minifyOutput: true
 
 params:
   env: production
   title: J.C.
   description: "J.C.'s Blog"
-  keywords: [Blog, Tech, 博客, 部落格, ブログ]
+  keywords: 
+    - blog
+    - tech
+    - developer
+    - engineer
+    - devops
+    - 博客
+    - 部落格
+    - ブログ
   author: J.C.
   # images: [""]
   DateFormat: "January 2, 2006"
@@ -33,7 +38,12 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: true
-  ShareButtons: ["linkedin", "twitter", "facebook", "reddit", "telegram"]
+  ShareButtons:
+    - "linkedin"
+    - "twitter"
+    - "facebook"
+    - "reddit"
+    - "telegram"
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -49,15 +59,25 @@ params:
   tocopen: false
 
   assets:
-    disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableHLJS: true
+    favicon: favicon.png
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: apple_touch_icon.png
+
+  label:
+    text: "J.C."
+    icon: /favicon.png
+    iconHeight: 35
 
   homeInfoParams:
-    Title: "J.C.'s Blog"
+    Title: "👋 Hi there! I'm Keisei Kinjo (J.C.)"
     Content: >
-      👋 I'm Keisei Kinjo (J.C.), a zh-ja-en trilingual DevOps Engineer base in Tokyo. 🏀👨‍💻🎸
-
-      - I hope you find something useful here. If you have any questions or comments, feel free to reach out to me via email.
+      > - A Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 👨‍💻🗼
+      
+      > - A basketball and fingerstyle guitar enthusiast. 🏀🎸
+      
+      > - I hope you find something useful here. If you have any questions or comments, feel free to reach out to me via email. dtjp[@]tutanota.com
 
   socialIcons:
     - name: email
