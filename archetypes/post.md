@@ -15,20 +15,18 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-# ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-# ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    image: "images/your_image.png"
+    alt: "<alt text>"
+    caption: "<text>"
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Suggest Changes"
     appendFilePath: true # to append file path to Edit link
 ---

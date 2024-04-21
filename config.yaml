@@ -1,7 +1,7 @@
 baseURL: "https://kinjo.tech/"
 title: J.C.
 copyright: "© 2024 Keisei Kinjo"
-paginate: 5
+paginate: 8
 theme: PaperMod
 
 
@@ -27,7 +27,7 @@ params:
   keywords: [Blog, Tech, 博客, 部落格, ブログ]
   author: J.C.
   # images: [""]
-  # DateFormat: "January 2, 2006"
+  DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
 
@@ -42,7 +42,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  # comments: false
+  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -52,7 +52,6 @@ params:
     disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
 
-  # home-info mode
   homeInfoParams:
     Title: "J.C.'s Blog"
     Content: >
@@ -70,16 +69,6 @@ params:
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://www.buymeacoffee.com/kinjo"
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  cover:
-    hidden: true
-    hiddenInList: true
-    hiddenInSingle: true
 
 outputs:
   home:
