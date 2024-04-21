@@ -252,7 +252,7 @@ window.onresize = chart.resize;
 
 https://www.multitrue.news/
 
-![](https://storage.googleapis.com/zenn-user-upload/4abb33b0e465-20220514.png)
+![](images/4abb33b0e465-20220514.png)
 
 
 今度は日本語と中国語のワードクラウドも追加してみようと思います。

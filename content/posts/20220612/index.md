@@ -197,7 +197,7 @@ Minimum instanceの数はコンテナインスタンスの数です。使用頻�
 という返答をいただきました。やはりアイドリングの時間だけが課金されるので、安心しました。
 `--min-instances 1`を設定して料金をシュミュレーションしてみると、通常の場合より1ヶ月8.21ドルかかるっぽいです。
 
-![](https://storage.googleapis.com/zenn-user-upload/aae473ee4cc2-20220612.png)
+![](images/aae473ee4cc2-20220612.png)
 
 
 実際にオプション`--min-instances 1`を追加してデプロイすると、slackからショートカットをクリックしてmodalがすぐ出てきました。ログを確認すると`{'ok': False, 'error': 'expired_trigger_id'})`というエラーも消えました。

@@ -40,7 +40,7 @@ editPost:
 
 `context`から`dag_run`の情報を取得してチャットツールやメールにアラートを出すのは一般的です。Slackにアラートを出す際の例ですが、`dag_id`, `run_id`, `task_id`, `reason`, `log_url`を取得して、webhookでSlackの特定なチャンネルに投稿し、`log_url`をクリックするだけですぐローカルあるいはクラウド環境（例えばCloud Composer）で失敗したtaskのログを確認できるので、アラート解消の効率化に繋がります。
 
-![](https://storage.googleapis.com/zenn-user-upload/a8c0942966d2-20221121.png)
+![](images/a8c0942966d2-20221121.png)
 
 ソースは以下となります。
 ```python

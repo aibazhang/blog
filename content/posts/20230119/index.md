@@ -61,7 +61,7 @@ mounts:
 
 Rancher DesktopのGUIからメモリを32GBに設定したにもかかわらず、
 
-![](https://storage.googleapis.com/zenn-user-upload/84ff3f794bab-20230119.png)
+![](images/84ff3f794bab-20230119.png)
 
 `docker info`で確認すると、CPUは設定通りですが、メモリは2.9GiBしか割り当てられていませんでした。
 

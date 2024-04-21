@@ -109,7 +109,7 @@ docker run --rm \
 
 さらに`dbt docs serve`を実行すると、localhostからメタデータのドキュメントを確認できます↓。schema `dbt_test`と`dbt_test_2`はBigQueryのデータセットに該当します。
 
-![](https://storage.googleapis.com/zenn-user-upload/fadc7e047002-20221207.png)
+![](images/fadc7e047002-20221207.png)
 
 ### 静的htmlファイルを生成
 

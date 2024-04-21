@@ -73,7 +73,7 @@ https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#da
 
 手動で削除しようと思ったですけど、バージョンを上げたのでCloud Composer -> AIRFLOW CONFIGURATION OVERRIDESに`core.dag_concurrency`というパラメータすら存在しませんでした。
 
-![](https://storage.googleapis.com/zenn-user-upload/36892f49cf56-20230217.png)
+![](images/36892f49cf56-20230217.png)
 
 仕方なく、GCSから設定ファイル`gs://asia-northeast1-colossus-wo-xxxxxxx-bucket/airflow.cfg`を直接編集してみました。しかし、`gcloud composer environments storage dags import`を実行すると初期化が処理が実行され、`core.dag_concurrency`が再び出てきました。
 
@@ -81,7 +81,7 @@ https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#da
 
 デフォルト値ではなく、手動で`core.max_active_tasks_per_dag`を明示的に16に指定すると、実行するタスクの上限が期待通りに動作しました。
 
-![](https://storage.googleapis.com/zenn-user-upload/7be4cd914ab1-20230217.png)
+![](images/7be4cd914ab1-20230217.png)
 
 ザクッとComposerのリリースノートを確認してこのバグまだ修正されていないようです。
 

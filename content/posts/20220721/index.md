@@ -208,6 +208,6 @@ with DAG(
 ローカルで構築したAirflow環境で上記DAGを実行して、Consoleから確認すると、テーブルがちゃんとありました。`dt`というもともと存在しなかった日付を表す列（パーティションキー）も新しく追加されました。
 日付というパーティションキがあると、ETL処理を行う際にべき等性の担保や日付を指定した洗い替え処理は非常に楽になります。
 
-![](https://storage.googleapis.com/zenn-user-upload/a281c0fd645a-20220721.png)
+![](images/a281c0fd645a-20220721.png)
 
 以上、AirflowでGCS外部パーティションテーブルをBigQueryに取り込む方法でした

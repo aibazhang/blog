@@ -87,7 +87,7 @@ github_poster issue --issue_number ${issue_number} --repo_name ${repo_name} --to
 ### 結果
 
 最終的に生成されたGitHub Poster（`.svg`ファイル）はこんな感じです。単位はtimes（回数）になっているが、hours（時間）が正しいです。
-![](https://storage.googleapis.com/zenn-user-upload/0afeec835744-20221101.png)
+![](images/0afeec835744-20221101.png)
 
 確認してみると、
 今年今まで336時間読書していて、週の真ん中あまり本を読んでいないと気づきました。

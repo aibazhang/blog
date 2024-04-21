@@ -72,12 +72,12 @@ https://keepa.com/
 
 あくまで筆者の例ですが、他のパーツに替えても全然問題がありません。パーツ間の互換性と電源容量だけ気をつけてください
 
-![](https://storage.googleapis.com/zenn-user-upload/1a35023684e3-20220626.jpg)
-![](https://storage.googleapis.com/zenn-user-upload/f52ac0a927e4-20220626.jpg)
+![](images/1a35023684e3-20220626.jpg)
+![](images/f52ac0a927e4-20220626.jpg)
 
 完成！！！
 パーツをマザーボードに突っ込むだけの作業なので、そこまで難しくはないです。
-![](https://storage.googleapis.com/zenn-user-upload/1532b70611b1-20220626.jpg)
+![](images/1532b70611b1-20220626.jpg)
 
 
 ハードウェアの環境構築を完了したので、これからソフトウェアの環境構築に入ります。
