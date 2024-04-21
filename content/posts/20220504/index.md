@@ -78,7 +78,7 @@ jobs:
 # Tip 2: 無料枠を使いこなす
 
 現時点(2022年5月)Herokuのプランはこうなっています。
-![](https://storage.googleapis.com/zenn-user-upload/8dec79541ac8-20220504.png)
+![](images/8dec79541ac8-20220504.png)
 
 https://devcenter.heroku.com/articles/free-dyno-hours
 
@@ -104,7 +104,7 @@ setInterval(() => {
 やっていることとしては、15分ごとに自分自身をpingすることで、Web dynoを起こしています。（`Node.js`の例ですが、他の言語でも簡単に実装できるはずです。）
 まさにこんな感じですね。
 **寝るな！！！起きろう！！！**
-![](https://storage.googleapis.com/zenn-user-upload/80ff169fd630-20220504.png)
+![](images/80ff169fd630-20220504.png)
 
 # Tip 3: カスタムドメイン
 
@@ -112,12 +112,12 @@ setInterval(() => {
 
 まずは、Heroku APPのsettings（`https://dashboard.heroku.com/apps/{YOUR_APP_NAME}/settings`）からドメインを設定します。申請済みのドメインを入力するとDNS Targetを取得できます。
 
-![](https://storage.googleapis.com/zenn-user-upload/15b38bf71db9-20220504.png)
+![](images/15b38bf71db9-20220504.png)
 
 
 続いて、DNS Targetをドメインプロバイダーに提供します。GMO MuuMuuDomainの場合、ムームーDNSをクリックして、サブドメイン、種別（CNAME）、内容（DNS Target）を入力します。他のプロバイダーの設定が若干違うかもしれないです。通常は30分前後経つと、設定したドメインからでもアプリケーションにアクセスできるようになります。
 
-![](https://storage.googleapis.com/zenn-user-upload/43c41e458854-20220504.png)
+![](images/43c41e458854-20220504.png)
 
 以上です。
 
