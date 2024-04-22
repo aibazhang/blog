@@ -1,5 +1,5 @@
-baseURL: "https://kinjo.tech/"
-title: J.C.
+baseURL: "https://www.kinjo.tech/"
+title: Keisei Kinjo (J.C.)'s Blog
 copyright: "© 2024 kinjo.tech"
 paginate: 8
 theme: PaperMod
@@ -12,16 +12,16 @@ buildExpired: false
 
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: 
+mainsections:
   - posts
 
 googleAnalytics: G-FRYQ5R2WW9
 
 params:
   env: production
-  title: J.C.
-  description: "J.C.'s Blog"
-  keywords: 
+  title: Keisei Kinjo (J.C.)'s Blog
+  description: "DevOps Engineer | Mandarin-Japanese-English trilingual speaker | Tokyo🗼"
+  keywords:
     - blog
     - tech
     - developer
@@ -69,7 +69,7 @@ params:
     text: "J.C."
     icon: /favicon.png
     iconHeight: 35
-  
+
   # profile-mode
   profileMode:
     enabled: false
@@ -90,9 +90,9 @@ params:
     Title: "👋 Hi there! I'm Keisei Kinjo (J.C.)"
     Content: >
       > - A Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 👨‍💻🗼
-      
+
       > - A basketball and fingerstyle guitar enthusiast. 🏀🎸
-      
+
       > - I hope you find something useful here. If you have any questions or comments, feel free to reach out to me via email. dtjp[@]tutanota.com
 
   socialIcons:
