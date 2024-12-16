@@ -1,8 +1,9 @@
 baseURL: "https://www.kinjo.tech/"
 title: Keisei Kinjo (J.C.)'s Blog
 copyright: "© 2024 kinjo.tech"
-paginate: 8
 theme: PaperMod
+pagination:
+  pagerSize: 8
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -57,6 +58,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  social: true
 
   assets:
     disableHLJS: true
