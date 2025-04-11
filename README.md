@@ -1,4 +1,4 @@
-# J.C.'s Blog
+# JC's Blog
 
 PaperMod does not work with Hugo 0.146.0+
 
