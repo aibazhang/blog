@@ -45,7 +45,7 @@ params:
     - "facebook"
     - "reddit"
     - "telegram"
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: false
@@ -123,11 +123,11 @@ menu:
     - identifier: tags
       name: Tags
       url: tags/
-      weight: 10
-    - identifier: books
-      name: Reading Notes
-      url: https://aibazhang.github.io/
       weight: 15
+    - identifier: Reading
+      name: Reading
+      url: posts/reading
+      weight: 10
 
 markup:
   goldmark:
