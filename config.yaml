@@ -123,11 +123,11 @@ menu:
     - identifier: tags
       name: Tags
       url: tags/
-      weight: 15
+      weight: 10
     - identifier: Reading
       name: Reading
       url: posts/reading
-      weight: 10
+      weight: 15
 
 markup:
   goldmark:
