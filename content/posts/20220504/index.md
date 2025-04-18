@@ -1,7 +1,7 @@
 ---
 title: "Herokuにデプロイする際のTips"
 date: 2022-05-04T00:00:00+00:00
-tags: ["tech", "日本語", "heroku", "githubactions"]
+tags: ["日本語"]
 author: "Me"
 showToc: true
 TocOpen: false

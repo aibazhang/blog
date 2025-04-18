@@ -1,7 +1,7 @@
 ---
 title: "AirflowでGCS外部パーティションテーブルをBigQueryに取り込む方法"
 date: 2022-07-21T00:00:00+00:00
-tags: ["tech", "日本語", "gcp", "dataplatform", "bigquery", "airflow"]
+tags: ["日本語", "googlecloud", "airflow"]
 author: "Me"
 showToc: true
 TocOpen: false

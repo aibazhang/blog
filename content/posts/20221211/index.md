@@ -1,7 +1,7 @@
 ---
 title: "dbtでBigQuery上に構築したデータ基盤のメタデータ管理"
 date: 2022-12-11T00:00:00+00:00
-tags: ["tech", "日本語", "dataplatform", "dbt"]
+tags: ["日本語", "googlecloud", "dbt"]
 author: "Me"
 showToc: true
 TocOpen: false

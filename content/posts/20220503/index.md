@@ -1,7 +1,7 @@
 ---
 title: "Creating a Personal Knowledge Management Tool with Just a 15-Line Shell Script"
 date: 2022-05-03T00:00:00+00:00
-tags: ["tech", "shell", "githubactions", "javascript", "english"]
+tags: ["shell", "javascript", "english"]
 author: "Me"
 showToc: true
 TocOpen: false

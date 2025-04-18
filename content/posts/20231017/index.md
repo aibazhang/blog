@@ -1,7 +1,7 @@
 ---
 title: "自作プロキシサーバで海外のサービスを利用しよう"
 date: 2023-10-17T00:00:00+00:00
-tags: ["tech", "日本語", "aws", "proxy", "lightsail"]
+tags: ["日本語", "aws"]
 author: "Me"
 showToc: true
 TocOpen: false

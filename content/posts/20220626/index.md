@@ -1,7 +1,7 @@
 ---
 title: "自作PCからUbuntu22.04開発環境構築してみた"
 date: 2024-04-20T00:00:00+00:00
-tags: ["tech", "日本語", "ubuntu", "linux"]
+tags: ["日本語", "linux"]
 author: "Me"
 showToc: true
 TocOpen: false

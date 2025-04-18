@@ -1,7 +1,7 @@
 ---
 title: "M1 MacでDocker DesktopからRancher Desktopに移行"
 date: 2023-01-19T00:00:00+00:00
-tags: ["tech", "日本語", "docker", "rancher", "m1"]
+tags: ["日本語", "docker"]
 author: "Me"
 showToc: true
 TocOpen: false

@@ -1,7 +1,7 @@
 ---
 title: "Title"
 date: 2022-00-00T00:00:00+00:00
-tags: ["tech", "日本語"]
+tags: ["日本語"]
 author: "Me"
 showToc: true
 TocOpen: false

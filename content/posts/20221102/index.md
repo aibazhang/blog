@@ -1,7 +1,7 @@
 ---
 title: "GitHub Issueだけで自分のルーティングを管理し、そして草を生やす"
 date: 2022-11-02T00:00:00+00:00
-tags: ["tech", "日本語", "github", "python"]
+tags: ["日本語", "python"]
 author: "Me"
 showToc: true
 TocOpen: false

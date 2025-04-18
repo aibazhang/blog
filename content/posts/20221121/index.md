@@ -1,7 +1,7 @@
 ---
 title: "アラートを出す際にAirflowのContextから誤ったtask idが取得されてしまうバグの対処法"
 date: 2022-11-21T00:00:00+00:00
-tags: ["tech", "日本語", "airflow", "dataplatform", "slack"]
+tags: ["日本語", "airflow"]
 author: "Me"
 showToc: true
 TocOpen: false

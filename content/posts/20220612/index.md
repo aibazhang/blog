@@ -1,7 +1,7 @@
 ---
 title: "Cloud FunctionsにおけるSlack APIの3秒レスポンス問題の対処法"
 date: 2022-06-12T00:00:00+00:00
-tags: ["tech", "日本語", "cloudfunction", "slack", "gcp"]
+tags: ["日本語", "googlecloud"]
 author: "Me"
 showToc: true
 TocOpen: false

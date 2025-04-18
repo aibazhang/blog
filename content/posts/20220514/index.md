@@ -1,7 +1,7 @@
 ---
 title: "ワードクラウドを自作ニュースアプリに追加してみた"
 date: 2022-05-14T00:00:00+00:00
-tags: ["tech", "日本語", "express", "nodejs", "javascript", "pug"]
+tags: ["日本語", "nodejs", "javascript"]
 author: "Me"
 showToc: true
 TocOpen: false

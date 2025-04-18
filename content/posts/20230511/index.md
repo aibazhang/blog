@@ -1,7 +1,7 @@
 ---
 title: "Apache Airflowのコミッターになった話"
 date: 2023-05-11T00:00:00+00:00
-tags: ["tech", "日本語", "airflow", "python"]
+tags: ["日本語", "airflow", "python"]
 author: "Me"
 showToc: true
 TocOpen: false

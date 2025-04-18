@@ -1,7 +1,7 @@
 ---
 title: "Cloud Composerでmax_active_tasks_per_dagのデフォルト値が機能していない問題"
 date: 2023-02-08T00:00:00+00:00
-tags: ["tech", "日本語", "airflow", "cloudcomposer", "gcp"]
+tags: ["日本語", "airflow", "googlecloud"]
 author: "Me"
 showToc: true
 TocOpen: false
