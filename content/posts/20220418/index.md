@@ -12,13 +12,9 @@ description: ""
 
 disableHLJS: true # to disable highlightjs
 disableShare: true
-disableHLJS: false
-hideSummary: false
 searchHidden: true
-ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
-ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 
