@@ -4,6 +4,3 @@
 [submodule "content/posts/cn2jp"]
 	path = content/posts/cn2jp
 	url = https://github.com/aibazhang/cn2jp
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
