@@ -21,18 +21,12 @@ googleAnalytics: G-FRYQ5R2WW9
 params:
   env: production
   title: Keisei Kinjo (JC)'s Blog
-  description: "DevOps Engineer | Mandarin-Japanese-English trilingual speaker | Tokyo🗼"
+  description: Keisei Kinjo (JC)'s Blog
   keywords:
-    - blog
-    - tech
-    - developer
-    - engineer
-    - devops
-    - 博客
-    - 部落格
-    - ブログ
+    - Blog
+    - Portfolio
   author: JC
-  # images: [""]
+  images: ["/favicon.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -74,39 +68,32 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false
+    enabled: true
     title: Keisei Kinjo (JC)
-    subtitle: "DevOps Engineer | Mandarin-Japanese-English trilingual speaker | Tokyo🗼"
+    subtitle: >
+      I'm a Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 🗼
+      Kubernetes | Terraform | Golang | Google Cloud | Platform Engineering
+      
+      </br></br> I love playing [_Fingerstyle guitar_](https://en.wikipedia.org/wiki/Fingerstyle_guitar), reading books, and working out.
+
     imageUrl: "/favicon.png"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 140
+    imageHeight: 140
     imageTitle: Kurimmy
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
-  # home-info mode
   homeInfoParams:
-    Title: "👋 Hi there! I'm Keisei Kinjo (JC)"
-    Content: >
-      > - A Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 👨‍💻🗼
-
-      > - A basketball and fingerstyle guitar enthusiast. 🏀🎸
-
-      > - I hope you find something useful here. If you have any questions or comments, feel free to reach out to me via email. dtjp[@]tutanota.com
+    Title: "Keisei Kinjo (JC)"
+    Content:
 
   socialIcons:
     - name: email
       url: "mailto:dtjp@tutanota.com"
     - name: github
       url: "https://github.com/aibazhang"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/kinjok/"
     - name: rss
       url: "/index.xml"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://www.buymeacoffee.com/kinjo"
 
 outputs:
   home:
@@ -116,9 +103,9 @@ outputs:
 
 menu:
   main:
-    - identifier: archives
-      name: Archives
-      url: archives/
+    - identifier: blog
+      name: Blog
+      url: posts/
       weight: 5
     - identifier: tags
       name: Tags
