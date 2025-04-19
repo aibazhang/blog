@@ -18,6 +18,12 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+# cover:
+#     image: "<image path/url>"
+#     alt: "<alt text>"
+#     caption: "<text>"
+#     relative: false
+#     hidden: true
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
     Text: "Suggest Changes"
