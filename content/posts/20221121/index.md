@@ -3,20 +3,7 @@ title: "アラートを出す際にAirflowのContextから誤ったtask idが取
 date: 2022-11-21T00:00:00+00:00
 tags: ["日本語", "airflow"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
 
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
     Text: "Suggest Changes" # edit text

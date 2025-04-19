@@ -3,20 +3,7 @@ title: "香港"
 date: 2024-05-06T00:00:00+00:00
 tags: ["中文", "旅途"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
 # 
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "images/20240502_141428993.jpg" # image path/url
     alt: "<alt text>" # alt text

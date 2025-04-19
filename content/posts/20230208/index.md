@@ -3,19 +3,6 @@ title: "Cloud Composerでmax_active_tasks_per_dagのデフォルト値が機能�
 date: 2023-02-08T00:00:00+00:00
 tags: ["日本語", "airflow", "googlecloud"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
     Text: "Suggest Changes" # edit text

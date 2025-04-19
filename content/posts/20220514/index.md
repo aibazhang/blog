@@ -3,20 +3,7 @@ title: "ワードクラウドを自作ニュースアプリに追加してみた
 date: 2022-05-14T00:00:00+00:00
 tags: ["日本語", "nodejs", "javascript"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
 
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "images/4abb33b0e465-20220514.png" # image path/url
 editPost:

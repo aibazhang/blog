@@ -3,20 +3,7 @@ title: "dbtでBigQuery上に構築したデータ基盤のメタデータ管理"
 date: 2022-12-11T00:00:00+00:00
 tags: ["日本語", "googlecloud", "dbt"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
 
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
     Text: "Suggest Changes" # edit text

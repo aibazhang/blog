@@ -3,23 +3,6 @@ title: "潤日進階: 如何DIY歸化日籍🇯🇵"
 date: 2023-11-29T00:00:00+00:00
 tags: ["中文", "經驗"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowWordCount: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 
 ---
 

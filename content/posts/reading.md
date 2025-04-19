@@ -3,18 +3,8 @@ title: "Reading"
 tags: []
 author: "Me"
 showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
 comments: false
-description: ""
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
 ShowBreadCrumbs: false
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 ---
 
 A list of books I am reading or have finished. Click on a book title to view my mind map notes.

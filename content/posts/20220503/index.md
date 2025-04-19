@@ -3,22 +3,6 @@ title: "Creating a Personal Knowledge Management Tool with Just a 15-Line Shell 
 date: 2022-05-03T00:00:00+00:00
 tags: ["shell", "javascript", "english"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
-
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "images/01.png" # image path/url
 editPost:

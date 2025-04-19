@@ -3,20 +3,7 @@ title: "自作プロキシサーバで海外のサービスを利用しよう"
 date: 2023-10-17T00:00:00+00:00
 tags: ["日本語", "aws"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
 
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
     Text: "Suggest Changes" # edit text

@@ -3,20 +3,7 @@ title: "M1 MacでDocker DesktopからRancher Desktopに移行"
 date: 2023-01-19T00:00:00+00:00
 tags: ["日本語", "docker"]
 author: "Me"
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: true
-description: ""
 
-disableHLJS: true # to disable highlightjs
-disableShare: true
-searchHidden: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
     Text: "Suggest Changes" # edit text
