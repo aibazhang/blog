@@ -72,14 +72,14 @@ params:
     title: Keisei Kinjo (JC)
     subtitle: >
       I'm a Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 🗼
-      Kubernetes | Terraform | Golang | Google Cloud | Platform Engineering
+      </br>Kubernetes | Terraform | Golang | Google Cloud | Platform Engineering
       
       </br></br> I love playing [_Fingerstyle guitar_](https://en.wikipedia.org/wiki/Fingerstyle_guitar), reading books, and working out.
 
     imageUrl: "/favicon.png"
     imageWidth: 140
     imageHeight: 140
-    imageTitle: Kurimmy
+    imageTitle: Creamyyy
 
   homeInfoParams:
     Title: "Keisei Kinjo (JC)"
