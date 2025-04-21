@@ -3,6 +3,7 @@ title: "AirflowでGCS外部パーティションテーブルをBigQueryに取り
 date: 2022-07-21T00:00:00+00:00
 tags: ["日本語", "googlecloud", "airflow"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

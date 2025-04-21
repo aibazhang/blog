@@ -3,6 +3,7 @@ title: "Web開発ど素人がNode.jsで多言語Webニュースアプリ作っ�
 date: 2022-04-18T00:00:00+00:00
 tags: ["日本語", "nodejs", "javascript"]
 author: "Me"
+categories: ["tech"]
 
 
 ---

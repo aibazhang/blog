@@ -3,6 +3,7 @@ title: "Cloud FunctionsにおけるSlack APIの3秒レスポンス問題の対�
 date: 2022-06-12T00:00:00+00:00
 tags: ["日本語", "googlecloud"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

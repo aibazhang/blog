@@ -3,6 +3,7 @@ title: "Herokuにデプロイする際のTips"
 date: 2022-05-04T00:00:00+00:00
 tags: ["日本語"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

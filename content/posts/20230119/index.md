@@ -3,6 +3,7 @@ title: "M1 MacでDocker DesktopからRancher Desktopに移行"
 date: 2023-01-19T00:00:00+00:00
 tags: ["日本語", "docker"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

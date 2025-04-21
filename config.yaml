@@ -28,8 +28,8 @@ params:
   author: JC
   images: ["/favicon.png"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto
-  disableThemeToggle: false
+  defaultTheme: dark
+  disableThemeToggle: true
 
   ShowReadingTime: false
   ShowShareButtons: true
@@ -119,17 +119,21 @@ outputs:
 menu:
   main:
     - identifier: blog
-      name: Blog
-      url: posts/
+      name: Tech Blog
+      url: categories/tech
       weight: 5
+    - identifier: life
+      name: Life
+      url: categories/life
+      weight: 10
     - identifier: tags
       name: Tags
       url: tags/
-      weight: 10
+      weight: 15
     - identifier: Reading
       name: Reading
       url: posts/reading
-      weight: 15
+      weight: 20
 
 markup:
   goldmark:
@@ -137,3 +141,7 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
+
+taxonomies:
+  tag: tags
+  category: categories

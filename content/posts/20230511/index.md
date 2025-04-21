@@ -3,6 +3,7 @@ title: "Apache Airflowのコミッターになった話"
 date: 2023-05-11T00:00:00+00:00
 tags: ["日本語", "airflow", "python"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

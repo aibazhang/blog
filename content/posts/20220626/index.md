@@ -3,6 +3,7 @@ title: "自作PCからUbuntu22.04開発環境構築してみた"
 date: 2024-04-20T00:00:00+00:00
 tags: ["日本語", "linux"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

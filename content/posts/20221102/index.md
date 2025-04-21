@@ -3,6 +3,7 @@ title: "GitHub Issueだけで自分のルーティングを管理し、そして
 date: 2022-11-02T00:00:00+00:00
 tags: ["日本語", "python"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"

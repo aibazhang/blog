@@ -3,6 +3,7 @@ title: "自作プロキシサーバで海外のサービスを利用しよう"
 date: 2023-10-17T00:00:00+00:00
 tags: ["日本語", "aws"]
 author: "Me"
+categories: ["tech"]
 
 editPost:
     URL: "https://github.com/aibazhang/blog/tree/master/content"
