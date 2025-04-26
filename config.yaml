@@ -3,7 +3,7 @@ title: Keisei Kinjo (JC)'s Blog
 copyright: "© 2025 kinjo.tech"
 theme: PaperMod
 pagination:
-  pagerSize: 8
+  pagerSize: 12
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
