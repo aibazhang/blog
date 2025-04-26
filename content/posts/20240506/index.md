@@ -5,11 +5,9 @@ tags: ["中文", "旅途"]
 author: "Me"
 categories: ["life"]
 cover:
-    image: "images/20240502_141428993.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    image: "images/PXL_20240502_141428993" # image path/url
+    alt: "<alt text>"
+    caption: "叮叮車上" # display caption under cover
 ---
 
 今天凌晨抵達東京，補覺到下午1點才起來本來想打開電腦做副業卻發現身體上的疲勞雖然恢復了但完全不想工作。趁着記憶還新鮮，寫一寫這幾天的直觀感受。

@@ -4,6 +4,10 @@ date: 2025-01-27T00:00:00+00:00
 tags: ["中文", "旅途"]
 author: "Me"
 categories: ["life"]
+cover:
+    image: "images/PXL_20250129_060735109"
+    alt: "<alt text>"
+    caption: "滇池湖邊從西伯利亞飛來的候鳥"
 ---
 
 在DeepSeek的威力之下，大即是正義模式正在崩潰瓦解，比起粗暴的資本堆疊也許這才是科學技術的進步。
