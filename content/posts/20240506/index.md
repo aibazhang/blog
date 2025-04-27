@@ -4,6 +4,7 @@ date: 2024-05-06T00:00:00+00:00
 tags: ["中文", "旅途"]
 author: "Me"
 categories: ["life"]
+hiddenInHomeList: true
 cover:
     image: "images/PXL_20240502_141428993" # image path/url
     alt: "<alt text>"

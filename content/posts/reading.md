@@ -5,6 +5,7 @@ author: "Me"
 showToc: false
 comments: false
 ShowBreadCrumbs: false
+hiddenInHomeList: true
 ---
 
 A list of books I am reading or have finished. Click on a book title to view my mind map notes.

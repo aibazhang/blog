@@ -71,8 +71,6 @@ params:
     enabled: false
     title: Keisei Kinjo (JC)
     subtitle: >
-      I'm a Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 🗼
-      </br>Kubernetes | Terraform | Golang | Google Cloud | Platform Engineering
       
     # imageUrl: "/favicon.png"
     imageWidth: 140
@@ -82,10 +80,10 @@ params:
   homeInfoParams:
     Title: "Keisei Kinjo (JC)"
     Content: >
-      I'm a Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 🗼
-      </br>Kubernetes | Terraform | Golang | Google Cloud | Platform Engineering
+      I'm JC, a Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 🗼
+      </br>Stuff I'm into right now: Kubernetes | Terraform | Golang | Google Cloud | Platform Engineering
       
-      </br></br> I love playing [_Fingerstyle guitar_](https://en.wikipedia.org/wiki/Fingerstyle_guitar), reading books, and working out. 💪
+      </br></br> I love playing [_Fingerstyle guitar_](https://en.wikipedia.org/wiki/Fingerstyle_guitar), [reading books](/posts/reading/), and working out. 💪
       </br> Email me at dtjp[@]tutanota.com
 
       </br></br> The icon is Creamyyy, a character created by my wife Chaerin.
@@ -109,10 +107,6 @@ outputs:
 
 menu:
   main:
-    - identifier: blog
-      name: Tech Blog
-      url: categories/tech
-      weight: 5
     - identifier: life
       name: Life
       url: categories/life

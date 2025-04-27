@@ -4,6 +4,7 @@ date: 2025-01-27T00:00:00+00:00
 tags: ["中文", "旅途"]
 author: "Me"
 categories: ["life"]
+hiddenInHomeList: true
 cover:
     image: "images/PXL_20250129_060735109"
     alt: "<alt text>"
