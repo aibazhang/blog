@@ -9,6 +9,7 @@ cover:
     image: "images/PXL_20250129_060735109"
     alt: "<alt text>"
     caption: "滇池湖邊從西伯利亞飛來的候鳥"
+    relative: true
 ---
 
 在DeepSeek的威力之下，大即是正義模式正在崩潰瓦解，比起粗暴的資本堆疊也許這才是科學技術的進步。

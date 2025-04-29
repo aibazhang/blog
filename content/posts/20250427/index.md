@@ -9,6 +9,7 @@ cover:
     image: "images/PXL_20250426_101626616"
     alt: ""
     caption: "高田馬場的一家歷史悠久的爵士吧"
+    relative: true
 ---
 
 還沒有寫把博客遷移到這裡的原因，那就在地鐵裡開始動筆寫一篇博客的博客 Meta Blog

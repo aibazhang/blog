@@ -9,6 +9,7 @@ cover:
     image: "images/PXL_20240502_141428993" # image path/url
     alt: "<alt text>"
     caption: "叮叮車上" # display caption under cover
+    relative: true
 ---
 
 今天凌晨抵達東京，補覺到下午1點才起來本來想打開電腦做副業卻發現身體上的疲勞雖然恢復了但完全不想工作。趁着記憶還新鮮，寫一寫這幾天的直觀感受。
