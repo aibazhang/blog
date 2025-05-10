@@ -54,7 +54,7 @@ A list of books I am reading or have finished. Click on a book title to view my 
 
 ## Other
 
-1. 孤獨六講 / 蔣勳
+1. **孤獨六講** / 蔣勳
 2. 海底两万里 / Jules Gabriel Verne
 3. 魯濱遜漂流記 / Daniel Defoe
 4. 放課後 / 東野圭吾
@@ -64,8 +64,8 @@ A list of books I am reading or have finished. Click on a book title to view my 
 8. ブルーもしくはブルー / 山本文緒
 9. 一只特立獨行的豬 / 王小波
 10. A Brief History of Time / Stephen Hawking
-11. Sapiens: A Brief History of Humankind / Yuval Noah Harari
-12. Homo Deus: A Brief History of Tomorrow / Yuval Noah Harari
+11. **Sapiens: A Brief History of Humankind** / Yuval Noah Harari
+12. **Homo Deus: A Brief History of Tomorrow** / Yuval Noah Harari
 13. 世界历史很有趣：袁腾飞讲美国史 / 袁腾飞
 14. 思維導圖 / Antony Buzan
 15. 反本能 / 卫蓝
@@ -105,16 +105,16 @@ A list of books I am reading or have finished. Click on a book title to view my 
 49. 我所看待的自由與未來 / 唐鳳
 50. 四十自述 / 胡適
 51. 失敗百選 / 中尾政之
-52. 群衆心理 / Gustave Le Bon
+52. **群衆心理** / Gustave Le Bon
 53. 法律人的思考法則 / Vibeke Norgaard Martin
-54. コミュニケーション能力とは(ありえないことから) / 平田オリザ
+54. **コミュニケーション能力とは(ありえないことから)** / 平田オリザ
 55. 徒步中國 / 雷克
-56. お金持ちになれる黄金の羽根の拾い方 知的人生設計のすすめ / 橘玲
+56. **お金持ちになれる黄金の羽根の拾い方 知的人生設計のすすめ** / 橘玲
 57. なぜ豊かな国と貧しい国が生まれたのか / Robert C. Allen
 58. カレーの世界史 / 井上岳久
-59. 激進市場 / Glen Weyl
+59. **激進市場** / Glen Weyl
 60. Peter principle / Laurence J. Peter
-61. 天安門：中國的知識分子與革命 / 史景遷
+61. **天安門：中國的知識分子與革命** / 史景遷
 62. 採用基準 / 伊賀泰代
 63. 運動脳 / Anders Hansen
 64. ミニマムリズムと脱資本主義の精神 / 橋本努
@@ -146,7 +146,7 @@ A list of books I am reading or have finished. Click on a book title to view my 
 90. カレー移民の謎 / 室橋裕和
 91. 魚ビジネス / ながさき一生
 92. 私を取り戻す哲学 / 岩内章太郎
-93. The origin of wealth / Eric D. Beinhocker
+93. **The origin of wealth** / Eric D. Beinhocker
 94. このプリン、いま食べるか？ ガマンするか？ / 柿内尚文
 95. 教養としての歴史小説 / 今村翔吾
 96. 家康、江戸を建てる / 門井慶喜
