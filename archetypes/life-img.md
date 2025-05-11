@@ -5,4 +5,8 @@ tags: ["中文"]
 categories: ["life"]
 author: "Me"
 hiddenInHomeList: true
+cover:
+    image: "images/image"
+    alt: "<alt text>"
+    caption: "<text>"
 ---
