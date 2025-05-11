@@ -41,7 +41,7 @@
 
 .post-entry {
     position: relative;
-    margin-bottom: 6px;
+    margin-bottom: 15px;
     padding: 6px;
     background: var(--entry);
     border-radius: var(--radius);
