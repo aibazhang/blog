@@ -7,6 +7,12 @@ tech:
     cp -r archetypes/tech.md $(filename); \
 	sed -i '' "s/^date: .*/date: $(utc_now)/" $(filename)
 
+tech-img:
+	@echo "Creating post: $(filename)"; \
+	mkdir -p content/posts/$(today)/images; \
+    cp -r archetypes/tech-img.md content/posts/$(today)/index.md; \
+	sed -i '' "s/^date: .*/date: $(utc_now)/" content/posts/$(today)/index.md; \
+
 life:
 	@echo "Creating post: $(filename)"; \
 	cp -r archetypes/life.md $(filename); \
