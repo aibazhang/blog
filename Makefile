@@ -4,7 +4,7 @@ filename := content/posts/$(today).md
 
 tech:
 	@echo "Creating post: $(filename)"; \
-    cp -r archetypes/tech.md $(filename); \
+	cp -r archetypes/tech.md $(filename); \
 	sed -i '' "s/^date: .*/date: $(utc_now)/" $(filename)
 
 tech-img:

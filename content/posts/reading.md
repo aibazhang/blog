@@ -95,13 +95,13 @@ A list of books I am reading or have finished. Click on a book title to view my 
 39. How to solve it / George Pólya
 40. Asking the Right Questions: A Guide to Critical Thinking / M. Neil Browne, Stuart M. Keeley
 41. Censored / Margaret E. Roberts
-42. Thinking fast slow / Daniel Kahneman
+42. **Thinking fast slow** / Daniel Kahneman
 43. 躁動的亡魂 / 梅爾清 et al.
 44. 世界經濟10000年 / Philip Coggan
 45. 不存在的三億人 / 山田泰司
 46. 容忍與自由 / 胡適
 47. 二十一世紀台灣要到哪裡去 / 李登輝
-48. 娛樂至死 / Neil Postman
+48. **Amusing Ourselves to Death** / Neil Postman
 49. 我所看待的自由與未來 / 唐鳳
 50. 四十自述 / 胡適
 51. 失敗百選 / 中尾政之
@@ -135,7 +135,7 @@ A list of books I am reading or have finished. Click on a book title to view my 
 79. 物価とは何か / 渡辺努
 80. シンプルで合理的な人生設計 / 橘玲
 81. 超訳「国富論」/ Adam Smith
-82. 幸福の「資本」論 / 橘玲 
+82. 幸福の「資本」論 / 橘玲
 83. Newton 食品の大百科
 84. Newton 健康の科学知識
 85. 食べる投資 / 満尾正
