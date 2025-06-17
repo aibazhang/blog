@@ -45,11 +45,12 @@ A list of books I am reading or have finished. Click on a book title to view my 
 31. Software Engineering at Google / Titus Winters et al.
 32. The Staff Engineer's Path / Tanya Reilly
 33. 左耳聽風 傳奇程序員的練級攻略 / 陳皓
-34. [ ] [Becoming SRE](https://aibazhang.github.io/html/tech/becoming_sre.md.html) / David N. Blank-Edelman
-35. [ ] [Platform Engineering on Kubernetes](https://aibazhang.github.io/html/tech/platform_engineering_on_kubernetes.md.html) / Josh Rosso
+34. [Becoming SRE](https://aibazhang.github.io/html/tech/becoming_sre.md.html) / David N. Blank-Edelman
+35. [Platform Engineering on Kubernetes](https://aibazhang.github.io/html/tech/platform_engineering_on_kubernetes.md.html) / Josh Rosso
 36. [ ] Learning eBPF / Liz Rice
 37. [ ] eBPF雲原生安全 原理與實踐 / 黃竹剛, 匡大虎
 38. [ ] 計算機底層的祕密 / 陸小風
+39. [ ] Team Topologies: Organizing Business and Technology Teams for Fast Flow / Matthew Skelton
 
 
 ## Other
@@ -151,4 +152,4 @@ A list of books I am reading or have finished. Click on a book title to view my 
 95. 教養としての歴史小説 / 今村翔吾
 96. 家康、江戸を建てる / 門井慶喜
 97. 東京の教科書
-98. [ ] 湘南ERが教える 大切な人を守るための応急手当 / 湘南ER
+98. 湘南ERが教える 大切な人を守るための応急手当 / 湘南ER
