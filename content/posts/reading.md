@@ -47,10 +47,11 @@ A list of books I am reading or have finished. Click on a book title to view my 
 33. 左耳聽風 傳奇程序員的練級攻略 / 陳皓
 34. [Becoming SRE](https://aibazhang.github.io/html/tech/becoming_sre.md.html) / David N. Blank-Edelman
 35. [Platform Engineering on Kubernetes](https://aibazhang.github.io/html/tech/platform_engineering_on_kubernetes.md.html) / Josh Rosso
-36. [ ] Learning eBPF / Liz Rice
-37. [ ] eBPF雲原生安全 原理與實踐 / 黃竹剛, 匡大虎
-38. [ ] 計算機底層的祕密 / 陸小風
-39. [ ] Team Topologies: Organizing Business and Technology Teams for Fast Flow / Matthew Skelton
+36. [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://aibazhang.github.io/html/tech/team-topology.md.html) / Matthew Skelton
+37. [ ] 理科系の作文技術 / 木下是雄
+38. [ ] Learning eBPF / Liz Rice
+39. [ ] eBPF雲原生安全 原理與實踐 / 黃竹剛, 匡大虎
+40. [ ] 計算機底層的祕密 / 陸小風
 
 
 ## Other
