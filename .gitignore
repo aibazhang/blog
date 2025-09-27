@@ -27,3 +27,7 @@ _testmain.go
 .hugo_build.lock
 resources/_gen/
 .vercel
+
+# ignore posts before 2020
+content/posts/200*
+content/posts/201*
